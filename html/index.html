@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <meta content="utf-8" http-equiv="encoding">
+
+    <title>Robot Snake Game</title>
+  </head>
+
+  <body>
+    <button onclick="main.play()">Run game</button>
+    <div>Statistics:
+      <table>
+        <tr><th></th><th>A</th><th>B</th><th>C</th><th>D</th></tr>
+        <tr><th>lost</th><td id="lostA">false</td><td id="lostB">false</td><td id="lostC">false</td><td id="lostD">false</td></tr>
+        <tr><th>apples</th><td id="applesA">0</td><td id="applesB">0</td><td id="applesC">0</td><td id="applesD">0</td>
+      </table>
+    </div>
+    <div><canvas id="gameScreen" width="500" height="500"></canvas></div>
+
+    <script src="../build/main.js"></script>
+  </body>
+
+</html>
