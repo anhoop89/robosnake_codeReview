@@ -40,7 +40,7 @@ Welcome to Robosnake, a 4-player Snake game where each player is controlled by d
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/anhoop89/robosnake.git
+   [git clone https://github.com/anhoop89/robosnake.git](https://github.com/anhoop89/robosnake_codeReview.git)
    cd robosnake
    ```
 
