@@ -1,7 +1,7 @@
 ```
 Course: Code Review
 Instructor: Katie Casamento
-Submission by Anh Ho
+Submission: Anh Ho
 November 18, 2022
 ```
 # Robosnake
